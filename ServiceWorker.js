@@ -1,9 +1,9 @@
 const cacheName = "Oceanic Games-UnderWaterRunner-1.0.0";
 const contentToCache = [
-    "Build/b96bb7caca471ec0a722113482abd45d.loader.js",
-    "Build/c10e6d5c64892d67098901be899e290c.framework.js",
-    "Build/cb9b5ef338b2dba3250f724b9b2403bf.data",
-    "Build/452a5d946a4e7b3ffc816003b6c0201f.wasm",
+    "Build/8d78120efb7d6884dfe08c6c69ecf530.loader.js",
+    "Build/805b29a7dce8e9c943e357feb6acbace.framework.js",
+    "Build/09b5bdfd8ed8e32dac6e57c0fcf94235.data",
+    "Build/8961690e258f2a4fed85623079e0954e.wasm",
     "TemplateData/style.css"
 
 ];
